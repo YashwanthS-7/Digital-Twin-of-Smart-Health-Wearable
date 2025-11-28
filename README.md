@@ -628,18 +628,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📞 Contact
-
-**Project Maintainer**: Your Name
-
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- GitHub: [@yourusername](https://github.com/yourusername)
-
-**Project Link**: [https://github.com/yourusername/iot-health-monitoring](https://github.com/yourusername/iot-health-monitoring)
-
----
-
 ## 🌟 Star History
 
 If you find this project useful, please consider giving it a star ⭐!
